@@ -1,7 +1,7 @@
-pip install google-cloud-speech
-pip install grpcio==1.44.0
-pip install grpcio-status==1.44.0
-pip install pyaudio
+pip3 install google-cloud-speech
+pip3 install grpcio==1.44.0
+pip3 install grpcio-status==1.44.0
+pip3 install pyaudio
 sudo apt-get install portaudio19-dev python3-pyaudio
 sudo apt-get install libportaudio0 libportaudio2
 git clone https://github.com/URKnock/DIMIGO_RPI.git
